@@ -21,5 +21,13 @@ public class Student {
         this.grades = grades;
     }
 
+    public double calculateAverage() {
+        System.out.println(this.grades.length);
+        
+
+
+
+        return 2;
+    }
 
 }

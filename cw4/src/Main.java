@@ -7,6 +7,8 @@ public class Main {
                 27850,
                 "s27850@pjwstk.edu.pl",
                 "Lipnki 17",
-                new double[]{3.5, 4});
+                new double[]{3.5, 4, 5, 4.5});
     }
+
+
 }
